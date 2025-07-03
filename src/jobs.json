@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "0351",
-      "title": "lool",
-      "type": "Remote",
-      "location": "lololo",
-      "description": "lolol",
-      "salary": "Under $50K",
-      "company": {
-        "name": "ololo",
-        "description": "ollol",
-        "contactEmail": "surfparadise62@gmail.com",
-        "contactPhone": "0711700753"
-      }
     }
   ]
 }
